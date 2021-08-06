@@ -1,4 +1,4 @@
-<h3>languages</h3>
+<h3>Languages</h3>
 
 ---
 
@@ -15,7 +15,7 @@
   <img align="center" src="https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
 
-<h3>socials</h3>
+<h3>Socials</h3>
 
 ---
 
@@ -32,7 +32,7 @@
   <img align="center" src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>
 
-<h3>github stats</h3>
+<h3>Github Stats</h3>
 
 ---
 

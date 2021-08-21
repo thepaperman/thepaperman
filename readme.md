@@ -3,9 +3,6 @@
 ---
 
 <a href="https://github.com/thepaperman">
-  <img align="center" src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-</a>
-<a href="https://github.com/thepaperman">
   <img align="center" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 <a href="https://github.com/thepaperman">
@@ -15,7 +12,7 @@
   <img align="center" src="https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
 <a href="https://github.com/thepaperman">
-  <img align="center" scr="https://img.shields.io/badge/fnac-000000?style=for-the-badge&logo=fnac&logoColor=white"/>
+  <img align="center" scr="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white"/>
 </a>
 
 <h3>Socials</h3>

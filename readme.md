@@ -22,9 +22,6 @@
 <a href="https://instagram.com/paperdosmans">
   <img align="center" src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://discord.gg/fx6juWqvgP">
-  <img align="center" src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
 <a href="https://steamcommunity.com/id/thepapermanhvh">
   <img align="center" src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>

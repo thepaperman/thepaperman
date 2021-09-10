@@ -2,9 +2,6 @@
 
 ---
 
-<a href="https://instagram.com/paperdosmans">
-  <img align="center" src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 <a href="https://youtube.com/thepaperman">
   <img align="center" src="https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>

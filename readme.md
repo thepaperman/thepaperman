@@ -2,6 +2,9 @@
 
 ---
 
+<a href="https://discord.gg/m8KnFyGBg5">
+  <img align="center" src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 <a href="https://youtube.com/thepaperman">
   <img align="center" src="https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>

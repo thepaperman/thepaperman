@@ -26,9 +26,6 @@
   <img align="center" src="https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
 <a href="https://github.com/thepaperman">
-  <img align="center" src="https://img.shields.io/badge/c#-000000?style=for-the-badge&logo=c#&logoColor=white"/>
-</a>
-<a href="https://github.com/thepaperman">
   <img align="center" src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white"/>
 </a>
 

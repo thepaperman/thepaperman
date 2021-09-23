@@ -1,6 +1,4 @@
-<h3 align="center">thepaperman's profile</h3>
-
---
+<h1 align="center">thepaperman's profile</h1>
 
 <h3>Languages</h3>
 

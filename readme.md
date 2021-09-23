@@ -1,4 +1,4 @@
-<h1 align="center">thepaperman's profile</h1>
+<h2 align="center">thepaperman's profile</h2>
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/629047171844407296.png">

@@ -6,8 +6,6 @@
 
 <h2 align="center">languages that i know</h2>
 
----
-
 <p align="center">
   <a href="https://github.com/thepaperman">
     <img align="center" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white"/>

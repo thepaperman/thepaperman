@@ -3,9 +3,8 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/629047171844407296.png">
 </p>
-<p align="center">
-  <b align="center">**i stay focused on moving forward and not letting stuff put me in a hole or make me feel depressed - 21 Savage**</b>
-</p>
+
+<b align="center">**i stay focused on moving forward and not letting stuff put me in a hole or make me feel depressed - 21 Savage**</b>
 
 <h3 align="center">languages that i know</h3>
 

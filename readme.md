@@ -4,7 +4,7 @@
   <img src="https://discord.c99.nl/widget/theme-4/629047171844407296.png">
 </p>
 
-<h1 align="center">languages that i know</h1>
+<h3 align="center">languages that i know</h3>
 
 <p align="center">
   <a href="https://github.com/thepaperman">

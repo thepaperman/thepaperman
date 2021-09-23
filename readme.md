@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center">languages that i know</h3>
+<h2 align="center">languages that i know</h2>
 
 <p align="center">
   <a href="https://github.com/thepaperman">

@@ -1,6 +1,8 @@
 <h1 align="center">thepaperman's profile</h1>
 
-<img align="center" src="https://discord.c99.nl/widget/theme-4/629047171844407296.png">
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-5/629047171844407296.png">
+</p>
 
 <h3>Languages</h3>
 

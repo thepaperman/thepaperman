@@ -21,10 +21,10 @@
   </a>
 </p>
 
-<h3>Github Stats</h3>
+<h2 align="center">my github stats</h2>
 
----
-
-<a href="https://github.com/thepaperman/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thepaperman&show_icons=true&theme=dark"/>
-</a>
+<p align="center">
+  <a href="https://github.com/thepaperman/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thepaperman&show_icons=true&theme=dark"/>
+  </a>
+</p>

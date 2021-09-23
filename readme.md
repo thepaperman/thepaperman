@@ -4,7 +4,7 @@
   <img src="https://discord.c99.nl/widget/theme-4/629047171844407296.png">
 </p>
 
-<h2>languages that i know</h2>
+<h2 align="center">languages that i know</h2>
 
 ---
 

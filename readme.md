@@ -8,9 +8,9 @@
   <strong>i stay focused on moving forward and not letting stuff put me in a hole or make me feel depressed - 21 Savage</strong>
 </p>
 
-<h3 align="center">languages that i know</h3>
-
 ---
+
+<h3 align="center">languages that i know</h3>
 
 <p align="center">
   <a href="https://github.com/thepaperman">
